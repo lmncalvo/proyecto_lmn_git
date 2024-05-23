@@ -1,2 +1,4 @@
 hola primer proyecto GIT.
 tambien veremos GITHUB
+aprendimos git status -s
+git diff
