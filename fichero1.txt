@@ -2,3 +2,5 @@ hola primer proyecto GIT.
 tambien veremos GITHUB
 aprendimos git status -s
 git diff
+git branch
+git checkout -b (nombre de la nueva rama)
