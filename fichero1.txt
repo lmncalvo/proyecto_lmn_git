@@ -4,3 +4,5 @@ aprendimos git status -s
 git diff
 git branch
 git checkout -b (nombre de la nueva rama)
+git checkout master (para regresar a la rama master)
+git merge (nombre de la rama)(para unir ramas)
